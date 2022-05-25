@@ -180,7 +180,7 @@ var cnItems = {
     "Tröm, the Predator": "特罗姆，捕食者",
     "Unlocks pain": "解锁痛苦",
     "You wake up stronger than ever": "你醒来时比以往任何时候都更坚强",
-    "": "",
+    "Recruit Minions": "招募仆从",
     "": "",
     "": "",
     "": "",
