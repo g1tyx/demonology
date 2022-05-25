@@ -183,7 +183,7 @@ var cnItems = {
     "Recruit Minions": "招募仆从",
     "A Demonology tab is already opened": "恶魔学识标签已打开",
     "Another Demonology tab is open, please close this one and use the other one to avoid bugs and glitches.": "另一个恶魔学识标签已打开，请关闭此标签并使用另一个标签以避免错误和故障。",
-    "": "",
+    "Raise occultists": "培养术士",
     "": "",
     "": "",
     "": "",
